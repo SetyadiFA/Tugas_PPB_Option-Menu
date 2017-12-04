@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tugas_PPB_Menu</string>
+    <string name="menu_bookmark">Bookmark</string>
+    <string name="menu_save">Save</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_delete">Delete</string>
+    <string name="menu_preferences">Preferences</string>
+</resources>
